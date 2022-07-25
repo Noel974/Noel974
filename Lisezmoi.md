@@ -4,9 +4,8 @@ Langages et outils :
 
 Les langages 
 
-![Cover](https://github.com/Noel974/Noel974/img/csarhap.jpg) C Shap
-Visual Studio code 
-Visual studio 
+![Cover](https://github.com/Noel974/Noel974/img/csharp.jpg) C Shap
+
 
 HTML5
 
