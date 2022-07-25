@@ -4,7 +4,7 @@ Langages et outils :
 
 Les langages 
 
-![Cover](https://github.com/Noel974/Noel974/blog/master/img/csharp.jpg) C Shap
+![Cover](https://github.com/Noel974/Noel974/blod/master/img/csharp.jpg) C Shap
 
 
 HTML5
