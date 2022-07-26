@@ -7,8 +7,8 @@ des application mobile et du desckopt qui me passionne tant.
 
 ### Mes reseaux 💬 
 <p align="left">
-<a href=""><img src="./img/discord.png" width="40px" alt="logo discord"></a>
-<a href=""><img src="./img/Linkedin.png" width="70px" alt="logo linkedin"></a>
+<a href="https://discord.gg/hEsM4Qse"><img src="./img/discord.png" width="40px" alt="logo discord"></a>
+<a href="https://www.linkedin.com/in/Antoine-Noel/"><img src="./img/Linkedin.png" width="70px" alt="logo linkedin"></a>
 </p>
 
 ### Langages et outils :
