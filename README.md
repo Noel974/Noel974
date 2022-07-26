@@ -1,12 +1,14 @@
 ### Je suis Emmanuel , j'habite a La Réunion , 
 🔭je suis Passionné par le monde numérique qui ne cesse d'évoluer, 
 je souhaiterai m'investir dans ce domaine de l'informatique et du web, 
-des apllication mobile et du desckopt qui me passionne tant .
+des apllication mobile et du desckopt qui me passionne tant.
 
-###Mes reseaux 
+😄😄😄😄J'ai des passions tel le manga, les jeux video, le modelisme, le cinema, la photographie, le dessin ...⚡
+
+###Mes reseaux 💬 
 <p align="left">
 <a href=""><img src="./img/discord.png" width="40px" alt="logo discord"></a>
-<a href=""><img src="./img/Linkedin.png" width="40px" alt="logo linkedin"></a>
+<a href=""><img src="./img/Linkedin.png" width="70px" alt="logo linkedin"></a>
 </p>
 
 ###Langages et outils :
