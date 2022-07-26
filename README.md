@@ -5,17 +5,68 @@ des apllication mobile et du desckopt qui me passionne tant.
 
 😄😄😄😄J'ai des passions tel le manga, les jeux video, le modelisme, le cinema, la photographie, le dessin ...⚡
 
-###Mes reseaux 💬 
+### Mes reseaux 💬 
 <p align="left">
 <a href=""><img src="./img/discord.png" width="40px" alt="logo discord"></a>
 <a href=""><img src="./img/Linkedin.png" width="70px" alt="logo linkedin"></a>
 </p>
 
-###Langages et outils :
+### Langages et outils :
 
 Les langages
+<table>
+  <tr>
+    <td><img align="left" alt="HTML5" width="70px" img src="./img/html.png"></td>
+    <td><img align="left" alt="php" width="70px" img src="./img/php.png" ></td>
+    <td><img align="left" alt="CSS3" width="70px" img src="./img/css3.png"></td>
+    <td><img alt="SASS" width="70px" img src="./img/sass.png"></td>
+  </tr>
+</table>
+</br>
+ <table>
+  <tr>
+    <td><img align="left"alt="JavaScript" width="70px" img src="./img/js.png"/></td>
+    <td><img align="left" alt="Node.js" width="70px" img src="./img/nodejs.png" /></td>
+    <td><img align="left" alt="React" width="70px" img src="./img/react.png" ></td>
+    <td><img alt="Angular" width="70px" img src="./img/angular.png" ></td>
+  </tr>
+ </table>
+</br>
+<table>
+  <tr>
+    <td><img align="left"alt="dotnet" width="70px" img src="./img/dotnet.png" ></td>
+    <td><img align="left" alt="Csharp"width="70px" img src="./img/csharp.jpg" ></td>
+      <td><img align="left" alt="Ionic"width="70px" img src="./img/LogoIonic.png" ></td>
+  </tr>
+</table>
+</br>
 
-
+ Les outils 
+ <table>
+  <tr>
+    <td><img alt="mysql" width="90px" img src="./img/mysql.png" ></td>
+    <td><img align="left" alt="Mongodb" width="90px" img src="./img/MongoDB.jpg"></td>
+    <td><img align="left" alt="microsph server" width="90px" img src="./img/sql server.png"></td>
+    <td><img alt="postman" width="90px" img src="./img/postman.png"></td>
+  </tr>
+  </table>
+</br>
+   <table>
+  <tr>
+    <td><img align="left"alt="github"width="70px" img src="./img/git hub.png"/></td>
+    <td><img align="left" alt="jira" width="90px" img src="./img/jira.png" /></td></td>
+    <td><img align="left" alt="confluence"width="90px" img src="./img/confluence.png" ></td>
+   </tr>
+  </table>
+ </br>
+ <table>
+  <tr>
+    <td><img align="left"alt="phothosop"width="70px" img src="./img/ps.png" ></td>
+    <td><img align="left" alt="davenci" width="70px" img src="./img/davenci.png" ></td>
+    <td><img align="left"alt="visual studio" width="70px" img src="./img/vs.png" ></td>
+    <td><img align="left" alt="visual studio code"width="70px" img src="./img/vsc.png" ></td>
+  </tr>
+ </table>
 
 <!--
 **Noel974/Noel974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
