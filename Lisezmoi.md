@@ -4,8 +4,10 @@ Langages et outils :
 
 Les langages 
 
-![Cover](https://github.com/Noel974/Noel974/blod/master/img/csharp.jpg) C Shap
-
+<p align="left">
+<a href="charp"><img src="./images/sharp.jpg" width="40px" alt="c sharp"></a>
+<a href="php/"><img src="./images/php.png" width="40px" alt="php"></a>
+</p>  
 
 HTML5
 
