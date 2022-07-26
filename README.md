@@ -23,6 +23,7 @@ Les langages
   </tr>
 </table>
 </br>
+
  <table>
   <tr>
     <td><img align="left"alt="JavaScript" width="70px" img src="./img/js.png"/></td>
@@ -32,11 +33,20 @@ Les langages
   </tr>
  </table>
 </br>
+
 <table>
   <tr>
     <td><img align="left"alt="dotnet" width="70px" img src="./img/dotnet.png" ></td>
     <td><img align="left" alt="Csharp"width="70px" img src="./img/csharp.jpg" ></td>
-      <td><img align="left" alt="Ionic"width="70px" img src="./img/LogoIonic.png" ></td>
+     <td><img align="left" alt="Ionic"width="70px" img src="./img/LogoIonic.png" ></td>
+  </tr>
+</table>
+</br>
+
+<table>
+  <tr>
+    <td><img align="left"alt="wordpress" width="70px" img src="./img/wordpress.png" ></td>
+    <td><img align="left" alt="Drupal"width="70px" img src="./img/drupal.jpg" ></td>
   </tr>
 </table>
 </br>
