@@ -46,7 +46,7 @@ Les langages
 <table>
   <tr>
     <td><img align="left"alt="wordpress" width="70px" img src="./img/wordpress.png" ></td>
-    <td><img align="left" alt="Drupal"width="70px" img src="./img/drupal.jpg" ></td>
+    <td><img align="left" alt="Drupal"width="70px" img src="./img/drupal.png" ></td>
   </tr>
 </table>
 </br>
