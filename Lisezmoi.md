@@ -5,8 +5,8 @@ Langages et outils :
 Les langages 
 
 <p align="left">
-<a href="charp"><img src="./images/sharp.jpg" width="40px" alt="c sharp"></a>
-<a href="php/"><img src="./images/php.png" width="40px" alt="php"></a>
+<a href="charp"><img src="./img/sharp.jpg" width="40px" alt="c sharp"></a>
+<a href="php/"><img src="./img/php.png" width="40px" alt="php"></a>
 </p>  
 
 HTML5
