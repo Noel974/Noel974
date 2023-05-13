@@ -48,7 +48,7 @@ Les langages
     <td><img align="left"alt="dotnet" width="70px" img src="./img/dotnet.png" ></td>
     <td><img align="left" alt="Csharp"width="70px" img src="./img/csharp.jpg" ></td>
      <td><img align="left" alt="C"width="70px" img src="./img/C.png" ></td>
-    <td><img align="left" alt="Python"width="70px" img src=".img/Python.png" ></td>
+    <td><img align="left" alt="Python"width="70px" img src="./img/Python.png" ></td>
     <td><img align="left" alt="Ionic"width="70px" img src="./img/LogoIonic.png" ></td>
   </tr>
 </table>
