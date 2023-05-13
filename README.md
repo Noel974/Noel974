@@ -14,22 +14,31 @@ des application mobile et du desckopt qui me passionne tant.
 ### Langages et outils :
 
 Les langages
+
 <table>
   <tr>
     <td><img align="left" alt="HTML5" width="70px" img src="./img/html.png"></td>
     <td><img align="left" alt="php" width="70px" img src="./img/php.png" ></td>
-    <td><img align="left" alt="CSS3" width="70px" img src="./img/css3.png"></td>
-    <td><img alt="SASS" width="70px" img src="./img/sass.png"></td>
+     <td><img align="left"alt="JavaScript" width="70px" img src="./img/js.png"/></td>
+  </tr>
+</table>
+</br>
+
+<table>
+  <tr>
+    <td><img align="left" alt="Laravel" width="70px" img src="./img/laravel.png"></td>
+    <td><img align="left" alt="Symfony" width="70px" img src=".img/symfony.png" ></td>
+    <td><img align="left" alt="React" width="70px" img src="./img/react.png" ></td>
+    <td><img alt="Angular" width="70px" img src="./img/angular.png" ></td>
   </tr>
 </table>
 </br>
 
  <table>
   <tr>
-    <td><img align="left"alt="JavaScript" width="70px" img src="./img/js.png"/></td>
-    <td><img align="left" alt="Node.js" width="70px" img src="./img/nodejs.png" /></td>
-    <td><img align="left" alt="React" width="70px" img src="./img/react.png" ></td>
-    <td><img alt="Angular" width="70px" img src="./img/angular.png" ></td>
+     <td><img align="left" alt="CSS3" width="70px" img src="./img/css3.png"></td>
+    <td><img alt="SASS" width="70px" img src="./img/sass.png"></td>
+    <td><img align="left" alt="Boostrap" width="70px" img src="./img/Bootstrap.png "/></td>
   </tr>
  </table>
 </br>
@@ -38,7 +47,9 @@ Les langages
   <tr>
     <td><img align="left"alt="dotnet" width="70px" img src="./img/dotnet.png" ></td>
     <td><img align="left" alt="Csharp"width="70px" img src="./img/csharp.jpg" ></td>
-     <td><img align="left" alt="Ionic"width="70px" img src="./img/LogoIonic.png" ></td>
+     <td><img align="left" alt="C"width="70px" img src="./img/C.png" ></td>
+    <td><img align="left" alt="Python"width="70px" img src=".img/Python.png" ></td>
+    <td><img align="left" alt="Ionic"width="70px" img src="./img/LogoIonic.png" ></td>
   </tr>
 </table>
 </br>
