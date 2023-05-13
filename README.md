@@ -27,7 +27,7 @@ Les langages
 <table>
   <tr>
     <td><img align="left" alt="Laravel" width="70px" img src="./img/laravel.png"></td>
-    <td><img align="left" alt="Symfony" width="70px" img src=".img/symfony.png" ></td>
+    <td><img align="left" alt="Symfony" width="70px" img src="./img/symfony.png" ></td>
     <td><img align="left" alt="React" width="70px" img src="./img/react.png" ></td>
     <td><img alt="Angular" width="70px" img src="./img/angular.png" ></td>
   </tr>
