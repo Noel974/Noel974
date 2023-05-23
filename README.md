@@ -67,7 +67,7 @@ les Mobiles
   <td><img align="left" alt="Ionic"width="70px" img src="./img/LogoIonic.png" ></td>
  </tr
 </table>
-    
+    </br>
  Les outils 
  <table>
   <tr>
