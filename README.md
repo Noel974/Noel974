@@ -53,7 +53,9 @@ Les langages
   </tr>
  </table>
 </br>
-Les cms
+Les cms 
+ </tr
+</table>
 <table>
   <tr>
     <td><img align="left"alt="wordpress" width="70px" img src="./img/wordpress.png" ></td>
@@ -61,13 +63,15 @@ Les cms
   </tr>
 </table>
 </br>
-les Mobiles
+Les mobiles
 <table>
   <tr>
-  <td><img align="left" alt="Ionic"width="70px" img src="./img/LogoIonic.png" ></td>
- </tr
+    <td><img align="left" alt="Ionic"width="70px" img src="./img/LogoIonic.png" ></td>
+  </tr>
 </table>
-    </br>
+</br>
+
+    
  Les outils 
  <table>
   <tr>
