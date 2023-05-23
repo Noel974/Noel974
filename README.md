@@ -24,7 +24,8 @@ Les langages
   </tr>
 </table>
 </br>
-
+ 
+ Les frameworks
 <table>
   <tr>
     <td><img align="left" alt="Laravel" width="70px" img src="./img/laravel.png"></td>
@@ -34,7 +35,16 @@ Les langages
   </tr>
 </table>
 </br>
-
+<table>
+  <tr>
+    <td><img align="left"alt="dotnet" width="70px" img src="./img/dotnet.png" ></td>
+    <td><img align="left" alt="Csharp"width="70px" img src="./img/csharp.jpg" ></td>
+     <td><img align="left" alt="C"width="70px" img src="./img/C.png" ></td>
+    <td><img align="left" alt="Python"width="70px" img src="./img/Python.png" ></td> 
+  </tr>
+</table>
+</br>
+ les Styles
  <table>
   <tr>
      <td><img align="left" alt="CSS3" width="70px" img src="./img/css3.png"></td>
@@ -43,18 +53,7 @@ Les langages
   </tr>
  </table>
 </br>
-
-<table>
-  <tr>
-    <td><img align="left"alt="dotnet" width="70px" img src="./img/dotnet.png" ></td>
-    <td><img align="left" alt="Csharp"width="70px" img src="./img/csharp.jpg" ></td>
-     <td><img align="left" alt="C"width="70px" img src="./img/C.png" ></td>
-    <td><img align="left" alt="Python"width="70px" img src="./img/Python.png" ></td>
-    <td><img align="left" alt="Ionic"width="70px" img src="./img/LogoIonic.png" ></td>
-  </tr>
-</table>
-</br>
-
+Les cms
 <table>
   <tr>
     <td><img align="left"alt="wordpress" width="70px" img src="./img/wordpress.png" ></td>
@@ -62,7 +61,13 @@ Les langages
   </tr>
 </table>
 </br>
-
+les Mobiles
+<table>
+  <tr>
+  <td><img align="left" alt="Ionic"width="70px" img src="./img/LogoIonic.png" ></td>
+ </tr
+</table>
+    
  Les outils 
  <table>
   <tr>
