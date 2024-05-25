@@ -99,6 +99,8 @@ Les mobiles
     <td><img align="left" alt="visual studio code"width="70px" img src="./img/vsc.png" ></td>
   </tr>
  </table>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Noel974&show_icons=true&locale=en&layout=compact" alt="Noel974" /></p>
+
 
 
 <!--
